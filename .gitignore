@@ -49,7 +49,7 @@ dist/
 *.swp
 *.swo
 .DS_Store
-.env
+# .env
 
 # Project specific
 *.log

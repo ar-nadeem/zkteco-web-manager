@@ -1,0 +1,5116 @@
+{
+  "summary": [
+    {
+      "date": "08 April Tuesday 2025",
+      "name": "Khuneda Barlas",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:09 PM",
+      "last_punch": "07:13 PM"
+    },
+    {
+      "date": "08 April Tuesday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 9,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:39 PM",
+      "last_punch": "04:39 PM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "12:05 AM",
+      "last_punch": "12:10 AM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:42 PM",
+      "last_punch": "04:42 PM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 9,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:38 PM",
+      "last_punch": "04:38 PM"
+    },
+    {
+      "date": "09 April Wednesday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:44 PM",
+      "last_punch": "04:48 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:29 AM",
+      "last_punch": "10:29 AM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 7,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:05 AM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Arshan Mudassar Yousaf",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:21 PM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "02:41 PM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:16 PM",
+      "last_punch": "05:16 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:39 AM",
+      "last_punch": "11:39 AM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:26 PM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:15 PM",
+      "last_punch": "05:15 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:19 PM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:31 PM",
+      "last_punch": "05:31 PM"
+    },
+    {
+      "date": "10 April Thursday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:18 PM",
+      "last_punch": "05:18 PM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:53 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "date": "14 April Monday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "05:06 PM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:45 AM",
+      "last_punch": "09:45 AM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:26 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "05:15 PM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "08:54 AM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:48 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:56 AM",
+      "last_punch": "06:00 PM"
+    },
+    {
+      "date": "15 April Tuesday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:49 AM",
+      "last_punch": "09:49 AM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "10:55 PM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:03 PM",
+      "last_punch": "04:03 PM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "16 April Wednesday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "09:32 AM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:10 AM",
+      "last_punch": "09:27 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:22 AM",
+      "last_punch": "05:37 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "06:14 PM",
+      "last_punch": "06:14 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Khuneda Barlas",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:56 PM",
+      "last_punch": "04:56 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:40 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:15 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "date": "17 April Thursday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:06 PM",
+      "last_punch": "12:06 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:16 AM",
+      "last_punch": "11:16 AM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 13,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Aqib Ali Akbar",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:11 PM",
+      "last_punch": "06:12 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:25 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "01:53 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:53 AM",
+      "last_punch": "10:53 AM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:12 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "02:57 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:38 PM",
+      "last_punch": "08:01 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:28 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 4,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "03:28 PM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:12 AM",
+      "last_punch": "09:12 AM"
+    },
+    {
+      "date": "18 April Friday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:12 PM",
+      "last_punch": "05:12 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:50 AM",
+      "last_punch": "11:29 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 15,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Arshan Mudassar Yousaf",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:36 AM",
+      "last_punch": "09:36 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 6,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:27 AM",
+      "last_punch": "09:27 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Khuneda Barlas",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:28 PM",
+      "last_punch": "12:28 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:09 AM",
+      "last_punch": "09:09 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 4,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:41 AM",
+      "last_punch": "05:39 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "01:40 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "08:59 AM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 6,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "date": "21 April Monday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:05 AM",
+      "last_punch": "09:05 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:48 AM",
+      "last_punch": "09:48 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 8,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Alisehzad",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Arshan Mudassar Yousaf",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:37 AM",
+      "last_punch": "09:37 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:29 AM",
+      "last_punch": "09:29 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "09:08 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:30 AM",
+      "last_punch": "09:30 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "12:38 PM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "02:13 PM"
+    },
+    {
+      "date": "22 April Tuesday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "09:04 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "09:08 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 17,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 4,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:09 AM",
+      "last_punch": "06:48 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Alisehzad",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "09:00 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Hifsa Naeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:07 PM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "09:32 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:56 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:18 AM",
+      "last_punch": "10:18 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "02:08 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:56 AM",
+      "last_punch": "08:56 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:50 AM",
+      "last_punch": "08:50 AM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 9,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 4,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:15 AM",
+      "last_punch": "02:12 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "date": "23 April Wednesday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:53 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:48 AM",
+      "last_punch": "11:48 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 14,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Alisehzad",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Arshan Mudassar Yousaf",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:26 AM",
+      "last_punch": "09:26 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Hifsa Naeem",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:24 AM",
+      "last_punch": "03:06 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:52 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Khuneda Barlas",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:25 PM",
+      "last_punch": "12:25 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Muhammad  Haris",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:24 AM",
+      "last_punch": "09:24 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 5,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Muhammad Zain Ul Abidin",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "01:36 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 10,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:14 AM",
+      "last_punch": "02:11 PM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "08:54 AM"
+    },
+    {
+      "date": "24 April Thursday 2025",
+      "name": "Ziyan Ali Murtaza",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:58 AM",
+      "last_punch": "08:58 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 7,
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "02:21 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 7,
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Alisehzad",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:02 AM",
+      "last_punch": "02:26 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Arshan Mudassar Yousaf",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 3,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Hifsa Naeem",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "09:23 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Iqra Falak Sher",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:34 AM",
+      "last_punch": "09:34 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Khuneda Barlas",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:16 PM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:55 AM",
+      "last_punch": "09:55 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Muhammad Anas Mansha",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "08:57 AM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 6,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "SAIF  UR  REHMAN",
+      "punch_count": 2,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Umair Ahmad",
+      "punch_count": 6,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Yousaf Khalid",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "02:30 PM",
+      "last_punch": "02:30 PM"
+    },
+    {
+      "date": "25 April Friday 2025",
+      "name": "Zeeshan Anwar",
+      "punch_count": 1,
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "09:04 AM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Abdul Rehman",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:54 AM",
+      "last_punch": "05:00 PM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Abdulrahman Nadeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:30 PM",
+      "last_punch": "12:30 PM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Ali Shehzad",
+      "punch_count": 10,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Bakar Ali",
+      "punch_count": 2,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:46 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Hifsa Naeem",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:06 AM",
+      "last_punch": "11:06 AM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Muhammad Ahmed",
+      "punch_count": 1,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:21 PM",
+      "last_punch": "12:21 PM"
+    },
+    {
+      "date": "26 April Saturday 2025",
+      "name": "Muhammad Talha",
+      "punch_count": 3,
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:44 PM",
+      "last_punch": "04:06 PM"
+    }
+  ],
+  "detailed": [
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "02:52 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "03:00 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "03:02 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "08 April Tuesday 2025",
+      "time": "07:03 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:35 PM",
+      "last_punch": "07:03 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "08 April Tuesday 2025",
+      "time": "07:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:09 PM",
+      "last_punch": "07:13 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "08 April Tuesday 2025",
+      "time": "07:13 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:09 PM",
+      "last_punch": "07:13 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "09 April Wednesday 2025",
+      "time": "12:05 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "12:05 AM",
+      "last_punch": "12:10 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "09 April Wednesday 2025",
+      "time": "12:10 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "12:05 AM",
+      "last_punch": "12:10 AM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "09 April Wednesday 2025",
+      "time": "04:38 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:38 PM",
+      "last_punch": "04:38 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "09 April Wednesday 2025",
+      "time": "04:39 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:39 PM",
+      "last_punch": "04:39 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "04:40 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "04:42 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "05:12 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "05:40 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "05:42 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "05:53 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "06:02 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "06:15 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "09 April Wednesday 2025",
+      "time": "06:27 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "04:40 PM",
+      "last_punch": "06:27 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "09 April Wednesday 2025",
+      "time": "04:42 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:42 PM",
+      "last_punch": "04:42 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "09 April Wednesday 2025",
+      "time": "04:44 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:44 PM",
+      "last_punch": "04:48 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "09 April Wednesday 2025",
+      "time": "04:48 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:44 PM",
+      "last_punch": "04:48 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "10 April Thursday 2025",
+      "time": "08:05 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:05 AM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "10 April Thursday 2025",
+      "time": "10:29 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:29 AM",
+      "last_punch": "10:29 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "10:47 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "02:30 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "02:39 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "02:41 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "05:13 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "05:17 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "10 April Thursday 2025",
+      "time": "05:19 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:47 AM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "10 April Thursday 2025",
+      "time": "11:39 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:39 AM",
+      "last_punch": "11:39 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "10 April Thursday 2025",
+      "time": "02:41 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "02:41 PM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "10 April Thursday 2025",
+      "time": "05:22 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "02:41 PM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "10 April Thursday 2025",
+      "time": "05:15 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:15 PM",
+      "last_punch": "05:15 PM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "10 April Thursday 2025",
+      "time": "05:16 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:16 PM",
+      "last_punch": "05:16 PM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "10 April Thursday 2025",
+      "time": "05:18 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:18 PM",
+      "last_punch": "05:18 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "10 April Thursday 2025",
+      "time": "05:19 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:19 PM",
+      "last_punch": "05:19 PM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "10 April Thursday 2025",
+      "time": "05:21 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:21 PM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "10 April Thursday 2025",
+      "time": "05:26 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:26 PM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "10 April Thursday 2025",
+      "time": "05:31 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:31 PM",
+      "last_punch": "05:31 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "14 April Monday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "14 April Monday 2025",
+      "time": "09:05 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "14 April Monday 2025",
+      "time": "09:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "14 April Monday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "14 April Monday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "14 April Monday 2025",
+      "time": "05:05 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "14 April Monday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "14 April Monday 2025",
+      "time": "05:51 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "14 April Monday 2025",
+      "time": "09:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "14 April Monday 2025",
+      "time": "09:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "14 April Monday 2025",
+      "time": "09:13 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "14 April Monday 2025",
+      "time": "09:13 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "14 April Monday 2025",
+      "time": "09:17 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "05:06 PM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "14 April Monday 2025",
+      "time": "05:06 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "05:06 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "14 April Monday 2025",
+      "time": "09:53 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:53 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "15 April Tuesday 2025",
+      "time": "08:26 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:26 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "15 April Tuesday 2025",
+      "time": "07:08 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:26 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "15 April Tuesday 2025",
+      "time": "08:54 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "08:54 AM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "15 April Tuesday 2025",
+      "time": "08:56 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:56 AM",
+      "last_punch": "06:00 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "15 April Tuesday 2025",
+      "time": "06:00 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:56 AM",
+      "last_punch": "06:00 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "15 April Tuesday 2025",
+      "time": "09:13 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "05:15 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "15 April Tuesday 2025",
+      "time": "05:15 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "05:15 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "15 April Tuesday 2025",
+      "time": "09:45 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:45 AM",
+      "last_punch": "09:45 AM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "15 April Tuesday 2025",
+      "time": "09:48 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:48 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "15 April Tuesday 2025",
+      "time": "05:26 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:48 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "15 April Tuesday 2025",
+      "time": "09:49 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:49 AM",
+      "last_punch": "09:49 AM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "16 April Wednesday 2025",
+      "time": "08:22 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "10:55 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "16 April Wednesday 2025",
+      "time": "10:55 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "10:55 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "16 April Wednesday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "16 April Wednesday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "16 April Wednesday 2025",
+      "time": "05:24 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "16 April Wednesday 2025",
+      "time": "09:32 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "16 April Wednesday 2025",
+      "time": "05:22 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "05:22 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "16 April Wednesday 2025",
+      "time": "09:32 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "09:32 AM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "16 April Wednesday 2025",
+      "time": "04:03 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:03 PM",
+      "last_punch": "04:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "17 April Thursday 2025",
+      "time": "08:10 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:10 AM",
+      "last_punch": "09:27 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "17 April Thursday 2025",
+      "time": "05:01 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:10 AM",
+      "last_punch": "09:27 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "17 April Thursday 2025",
+      "time": "09:27 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:10 AM",
+      "last_punch": "09:27 PM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "17 April Thursday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "17 April Thursday 2025",
+      "time": "05:07 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "17 April Thursday 2025",
+      "time": "09:22 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:22 AM",
+      "last_punch": "05:37 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "17 April Thursday 2025",
+      "time": "05:37 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:22 AM",
+      "last_punch": "05:37 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "17 April Thursday 2025",
+      "time": "09:40 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:40 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "17 April Thursday 2025",
+      "time": "04:54 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:40 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "17 April Thursday 2025",
+      "time": "10:15 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:15 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "17 April Thursday 2025",
+      "time": "05:07 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:15 AM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "17 April Thursday 2025",
+      "time": "04:56 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "04:56 PM",
+      "last_punch": "04:56 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "17 April Thursday 2025",
+      "time": "06:14 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "06:14 PM",
+      "last_punch": "06:14 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "08:05 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "08:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "08:43 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "08:50 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "09:15 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "09:46 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "10:24 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "11:18 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "02:38 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "03:45 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "05:37 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "06:18 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "18 April Friday 2025",
+      "time": "08:03 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:05 AM",
+      "last_punch": "08:03 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "18 April Friday 2025",
+      "time": "09:00 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:12 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "18 April Friday 2025",
+      "time": "05:12 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:12 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "18 April Friday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "02:57 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "18 April Friday 2025",
+      "time": "02:39 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "02:57 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "18 April Friday 2025",
+      "time": "02:57 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "02:57 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "18 April Friday 2025",
+      "time": "09:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "03:28 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "18 April Friday 2025",
+      "time": "09:58 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "03:28 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "18 April Friday 2025",
+      "time": "12:11 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "03:28 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "18 April Friday 2025",
+      "time": "03:28 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "03:28 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "18 April Friday 2025",
+      "time": "09:12 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:12 AM",
+      "last_punch": "09:12 AM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "18 April Friday 2025",
+      "time": "09:13 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "01:53 PM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "18 April Friday 2025",
+      "time": "01:53 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "01:53 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "18 April Friday 2025",
+      "time": "09:16 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "18 April Friday 2025",
+      "time": "01:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "18 April Friday 2025",
+      "time": "05:26 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "18 April Friday 2025",
+      "time": "09:25 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:25 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "18 April Friday 2025",
+      "time": "05:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:25 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "18 April Friday 2025",
+      "time": "09:28 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:28 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "18 April Friday 2025",
+      "time": "05:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:28 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "18 April Friday 2025",
+      "time": "10:53 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:53 AM",
+      "last_punch": "10:53 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "18 April Friday 2025",
+      "time": "11:16 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:16 AM",
+      "last_punch": "11:16 AM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "18 April Friday 2025",
+      "time": "12:06 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:06 PM",
+      "last_punch": "12:06 PM"
+    },
+    {
+      "uid": "15",
+      "name": "Aqib Ali Akbar",
+      "date": "18 April Friday 2025",
+      "time": "02:11 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:11 PM",
+      "last_punch": "06:12 PM"
+    },
+    {
+      "uid": "15",
+      "name": "Aqib Ali Akbar",
+      "date": "18 April Friday 2025",
+      "time": "05:58 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:11 PM",
+      "last_punch": "06:12 PM"
+    },
+    {
+      "uid": "15",
+      "name": "Aqib Ali Akbar",
+      "date": "18 April Friday 2025",
+      "time": "06:12 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "02:11 PM",
+      "last_punch": "06:12 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "18 April Friday 2025",
+      "time": "05:12 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:12 PM",
+      "last_punch": "05:12 PM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "18 April Friday 2025",
+      "time": "07:38 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:38 PM",
+      "last_punch": "08:01 PM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "18 April Friday 2025",
+      "time": "08:01 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "07:38 PM",
+      "last_punch": "08:01 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "08:21 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "08:52 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "09:10 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "09:25 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "10:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "10:11 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "12:13 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "01:00 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "01:36 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "01:44 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "02:22 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "02:33 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "05:10 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "21 April Monday 2025",
+      "time": "05:51 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:21 AM",
+      "last_punch": "05:51 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "21 April Monday 2025",
+      "time": "08:41 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:41 AM",
+      "last_punch": "05:39 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "21 April Monday 2025",
+      "time": "08:56 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:41 AM",
+      "last_punch": "05:39 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "21 April Monday 2025",
+      "time": "01:16 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:41 AM",
+      "last_punch": "05:39 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "21 April Monday 2025",
+      "time": "05:39 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:41 AM",
+      "last_punch": "05:39 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "21 April Monday 2025",
+      "time": "08:59 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "08:59 AM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "09:00 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "09:26 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "10:20 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "11:01 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "01:20 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "21 April Monday 2025",
+      "time": "01:30 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "01:30 PM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "21 April Monday 2025",
+      "time": "09:05 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:05 AM",
+      "last_punch": "09:05 AM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "21 April Monday 2025",
+      "time": "09:06 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "21 April Monday 2025",
+      "time": "02:06 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "21 April Monday 2025",
+      "time": "09:09 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:09 AM",
+      "last_punch": "09:09 AM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "21 April Monday 2025",
+      "time": "09:13 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:13 AM",
+      "last_punch": "09:13 AM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "21 April Monday 2025",
+      "time": "09:16 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "01:40 PM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "21 April Monday 2025",
+      "time": "01:40 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:16 AM",
+      "last_punch": "01:40 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "21 April Monday 2025",
+      "time": "09:27 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:27 AM",
+      "last_punch": "09:27 AM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "21 April Monday 2025",
+      "time": "09:36 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:36 AM",
+      "last_punch": "09:36 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "09:38 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "12:55 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "01:28 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "01:34 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "02:15 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "21 April Monday 2025",
+      "time": "02:19 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:38 AM",
+      "last_punch": "02:19 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "21 April Monday 2025",
+      "time": "09:50 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:50 AM",
+      "last_punch": "11:29 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "21 April Monday 2025",
+      "time": "11:29 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:50 AM",
+      "last_punch": "11:29 AM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "21 April Monday 2025",
+      "time": "12:28 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:28 PM",
+      "last_punch": "12:28 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "08:16 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "10:55 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "11:47 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "12:12 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "01:00 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "02:41 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "03:11 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "06:03 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:16 AM",
+      "last_punch": "06:03 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "22 April Tuesday 2025",
+      "time": "08:59 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "12:38 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "22 April Tuesday 2025",
+      "time": "12:15 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "12:38 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "22 April Tuesday 2025",
+      "time": "12:38 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "12:38 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "22 April Tuesday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "09:04 AM"
+    },
+    {
+      "uid": "28",
+      "name": "Alisehzad",
+      "date": "22 April Tuesday 2025",
+      "time": "09:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "22 April Tuesday 2025",
+      "time": "09:07 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:07 AM",
+      "last_punch": "09:07 AM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "22 April Tuesday 2025",
+      "time": "09:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "09:08 AM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "22 April Tuesday 2025",
+      "time": "09:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "02:13 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "22 April Tuesday 2025",
+      "time": "02:13 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "02:13 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "22 April Tuesday 2025",
+      "time": "09:29 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:29 AM",
+      "last_punch": "09:29 AM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "22 April Tuesday 2025",
+      "time": "09:30 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:30 AM",
+      "last_punch": "09:30 AM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "22 April Tuesday 2025",
+      "time": "09:37 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:37 AM",
+      "last_punch": "09:37 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "22 April Tuesday 2025",
+      "time": "09:48 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:48 AM",
+      "last_punch": "09:48 AM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "22 April Tuesday 2025",
+      "time": "10:35 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "22 April Tuesday 2025",
+      "time": "01:24 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "22 April Tuesday 2025",
+      "time": "05:23 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "23 April Wednesday 2025",
+      "time": "08:09 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:09 AM",
+      "last_punch": "06:48 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "23 April Wednesday 2025",
+      "time": "02:15 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:09 AM",
+      "last_punch": "06:48 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "23 April Wednesday 2025",
+      "time": "03:50 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:09 AM",
+      "last_punch": "06:48 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "23 April Wednesday 2025",
+      "time": "06:48 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:09 AM",
+      "last_punch": "06:48 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "23 April Wednesday 2025",
+      "time": "08:50 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:50 AM",
+      "last_punch": "08:50 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "23 April Wednesday 2025",
+      "time": "08:54 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "23 April Wednesday 2025",
+      "time": "09:56 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "23 April Wednesday 2025",
+      "time": "05:05 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "05:05 PM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "23 April Wednesday 2025",
+      "time": "08:56 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:56 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "23 April Wednesday 2025",
+      "time": "02:06 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:56 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "23 April Wednesday 2025",
+      "time": "08:56 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:56 AM",
+      "last_punch": "08:56 AM"
+    },
+    {
+      "uid": "28",
+      "name": "Alisehzad",
+      "date": "23 April Wednesday 2025",
+      "time": "09:00 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "09:00 AM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "23 April Wednesday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "23 April Wednesday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "23 April Wednesday 2025",
+      "time": "01:48 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "10:16 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "11:43 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "03:07 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "03:07 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "03:08 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "04:54 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "23 April Wednesday 2025",
+      "time": "04:54 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "04:54 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "23 April Wednesday 2025",
+      "time": "09:06 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "23 April Wednesday 2025",
+      "time": "02:06 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:06 AM",
+      "last_punch": "02:06 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "23 April Wednesday 2025",
+      "time": "09:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:08 AM",
+      "last_punch": "09:08 AM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "23 April Wednesday 2025",
+      "time": "09:15 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:15 AM",
+      "last_punch": "02:12 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "23 April Wednesday 2025",
+      "time": "02:11 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:15 AM",
+      "last_punch": "02:12 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "23 April Wednesday 2025",
+      "time": "02:11 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:15 AM",
+      "last_punch": "02:12 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "23 April Wednesday 2025",
+      "time": "02:12 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:15 AM",
+      "last_punch": "02:12 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "23 April Wednesday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "02:08 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "23 April Wednesday 2025",
+      "time": "02:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "02:08 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "23 April Wednesday 2025",
+      "time": "02:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "02:08 PM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "23 April Wednesday 2025",
+      "time": "09:32 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:32 AM",
+      "last_punch": "09:32 AM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "23 April Wednesday 2025",
+      "time": "10:18 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:18 AM",
+      "last_punch": "10:18 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "01:59 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "02:01 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:10 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:14 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:14 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:15 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:22 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:48 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "03:48 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "04:01 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "04:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "04:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "04:16 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "04:31 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "05:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "05:29 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "23 April Wednesday 2025",
+      "time": "05:35 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "01:59 PM",
+      "last_punch": "05:35 PM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "23 April Wednesday 2025",
+      "time": "05:07 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "05:07 PM",
+      "last_punch": "05:07 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "08:22 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "08:23 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "09:47 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "10:27 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "12:49 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "02:01 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "02:35 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "02:38 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "04:40 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "05:11 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "05:22 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "06:36 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "07:08 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "24 April Thursday 2025",
+      "time": "07:08 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "07:08 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "24 April Thursday 2025",
+      "time": "08:53 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "24 April Thursday 2025",
+      "time": "01:29 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "24 April Thursday 2025",
+      "time": "01:41 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "24 April Thursday 2025",
+      "time": "02:16 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "24 April Thursday 2025",
+      "time": "05:21 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "05:21 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "24 April Thursday 2025",
+      "time": "08:54 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:54 AM",
+      "last_punch": "08:54 AM"
+    },
+    {
+      "uid": "24",
+      "name": "Ziyan Ali Murtaza",
+      "date": "24 April Thursday 2025",
+      "time": "08:58 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:58 AM",
+      "last_punch": "08:58 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "24 April Thursday 2025",
+      "time": "08:59 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "24 April Thursday 2025",
+      "time": "01:30 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "24 April Thursday 2025",
+      "time": "05:26 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:59 AM",
+      "last_punch": "05:26 PM"
+    },
+    {
+      "uid": "7",
+      "name": "Muhammad  Haris",
+      "date": "24 April Thursday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "8",
+      "name": "Muhammad Zain Ul Abidin",
+      "date": "24 April Thursday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "28",
+      "name": "Alisehzad",
+      "date": "24 April Thursday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "09:21 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "09:21 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "11:51 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "11:51 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "01:28 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "03:19 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "24 April Thursday 2025",
+      "time": "03:48 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "03:48 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "24 April Thursday 2025",
+      "time": "09:14 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:14 AM",
+      "last_punch": "02:11 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "24 April Thursday 2025",
+      "time": "02:11 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:14 AM",
+      "last_punch": "02:11 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "24 April Thursday 2025",
+      "time": "09:17 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "01:36 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "24 April Thursday 2025",
+      "time": "01:36 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:17 AM",
+      "last_punch": "01:36 PM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "24 April Thursday 2025",
+      "time": "09:24 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:24 AM",
+      "last_punch": "03:06 PM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "24 April Thursday 2025",
+      "time": "03:06 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:24 AM",
+      "last_punch": "03:06 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "24 April Thursday 2025",
+      "time": "09:24 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:24 AM",
+      "last_punch": "09:24 AM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "24 April Thursday 2025",
+      "time": "09:26 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:26 AM",
+      "last_punch": "09:26 AM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "24 April Thursday 2025",
+      "time": "09:26 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:26 AM",
+      "last_punch": "09:26 AM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "24 April Thursday 2025",
+      "time": "09:52 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:52 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "24 April Thursday 2025",
+      "time": "09:53 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:52 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "24 April Thursday 2025",
+      "time": "09:53 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:53 AM",
+      "last_punch": "09:53 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "24 April Thursday 2025",
+      "time": "11:48 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:48 AM",
+      "last_punch": "11:48 AM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "24 April Thursday 2025",
+      "time": "12:25 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:25 PM",
+      "last_punch": "12:25 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "08:22 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "08:22 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "10:49 AM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "01:49 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "02:12 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "05:34 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "25 April Friday 2025",
+      "time": "08:21 PM",
+      "is_late_arrival": false,
+      "is_early_departure": false,
+      "first_punch": "08:22 AM",
+      "last_punch": "08:21 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "25 April Friday 2025",
+      "time": "08:53 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "uid": "10",
+      "name": "SAIF  UR  REHMAN",
+      "date": "25 April Friday 2025",
+      "time": "01:51 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:53 AM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "25 April Friday 2025",
+      "time": "08:57 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "25 April Friday 2025",
+      "time": "08:57 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "25 April Friday 2025",
+      "time": "01:48 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "01:48 PM"
+    },
+    {
+      "uid": "11",
+      "name": "Muhammad Anas Mansha",
+      "date": "25 April Friday 2025",
+      "time": "08:57 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "08:57 AM",
+      "last_punch": "08:57 AM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "09:00 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "10:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "10:08 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "01:53 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "04:15 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "9",
+      "name": "Umair Ahmad",
+      "date": "25 April Friday 2025",
+      "time": "05:23 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:00 AM",
+      "last_punch": "05:23 PM"
+    },
+    {
+      "uid": "28",
+      "name": "Alisehzad",
+      "date": "25 April Friday 2025",
+      "time": "09:02 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:02 AM",
+      "last_punch": "02:26 PM"
+    },
+    {
+      "uid": "28",
+      "name": "Alisehzad",
+      "date": "25 April Friday 2025",
+      "time": "02:26 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:02 AM",
+      "last_punch": "02:26 PM"
+    },
+    {
+      "uid": "3",
+      "name": "Arshan Mudassar Yousaf",
+      "date": "25 April Friday 2025",
+      "time": "09:03 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:03 AM",
+      "last_punch": "09:03 AM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "02:06 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "02:20 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "02:20 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "02:23 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "25 April Friday 2025",
+      "time": "05:24 PM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "05:24 PM"
+    },
+    {
+      "uid": "20",
+      "name": "Zeeshan Anwar",
+      "date": "25 April Friday 2025",
+      "time": "09:04 AM",
+      "is_late_arrival": false,
+      "is_early_departure": true,
+      "first_punch": "09:04 AM",
+      "last_punch": "09:04 AM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "09:18 AM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "09:19 AM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "09:19 AM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "09:19 AM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "05:26 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "06:07 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "25 April Friday 2025",
+      "time": "06:07 PM",
+      "is_late_arrival": true,
+      "is_early_departure": false,
+      "first_punch": "09:18 AM",
+      "last_punch": "06:07 PM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "25 April Friday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "09:23 AM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "25 April Friday 2025",
+      "time": "09:23 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:23 AM",
+      "last_punch": "09:23 AM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "25 April Friday 2025",
+      "time": "09:34 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:34 AM",
+      "last_punch": "09:34 AM"
+    },
+    {
+      "uid": "6",
+      "name": "Iqra Falak Sher",
+      "date": "25 April Friday 2025",
+      "time": "09:34 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:34 AM",
+      "last_punch": "09:34 AM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "25 April Friday 2025",
+      "time": "09:55 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:55 AM",
+      "last_punch": "09:55 AM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "25 April Friday 2025",
+      "time": "09:55 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:55 AM",
+      "last_punch": "09:55 AM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "25 April Friday 2025",
+      "time": "10:35 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "02:21 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "25 April Friday 2025",
+      "time": "02:21 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "10:35 AM",
+      "last_punch": "02:21 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "25 April Friday 2025",
+      "time": "12:16 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:16 PM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "25 April Friday 2025",
+      "time": "12:17 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:16 PM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "uid": "2",
+      "name": "Khuneda Barlas",
+      "date": "25 April Friday 2025",
+      "time": "01:51 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:16 PM",
+      "last_punch": "01:51 PM"
+    },
+    {
+      "uid": "14",
+      "name": "Yousaf Khalid",
+      "date": "25 April Friday 2025",
+      "time": "02:30 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "02:30 PM",
+      "last_punch": "02:30 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "09:58 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "09:58 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "10:59 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "11:47 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "12:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "02:18 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "02:27 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "03:45 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "04:31 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "26",
+      "name": "Ali Shehzad",
+      "date": "26 April Saturday 2025",
+      "time": "05:09 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "09:58 AM",
+      "last_punch": "05:09 PM"
+    },
+    {
+      "uid": "12",
+      "name": "Hifsa Naeem",
+      "date": "26 April Saturday 2025",
+      "time": "11:06 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:06 AM",
+      "last_punch": "11:06 AM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "26 April Saturday 2025",
+      "time": "11:46 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:46 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "uid": "5",
+      "name": "Bakar Ali",
+      "date": "26 April Saturday 2025",
+      "time": "05:08 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:46 AM",
+      "last_punch": "05:08 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "26 April Saturday 2025",
+      "time": "11:54 AM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:54 AM",
+      "last_punch": "05:00 PM"
+    },
+    {
+      "uid": "4",
+      "name": "Abdul Rehman",
+      "date": "26 April Saturday 2025",
+      "time": "05:00 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "11:54 AM",
+      "last_punch": "05:00 PM"
+    },
+    {
+      "uid": "1",
+      "name": "Muhammad Ahmed",
+      "date": "26 April Saturday 2025",
+      "time": "12:21 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:21 PM",
+      "last_punch": "12:21 PM"
+    },
+    {
+      "uid": "23",
+      "name": "Abdulrahman Nadeem",
+      "date": "26 April Saturday 2025",
+      "time": "12:30 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:30 PM",
+      "last_punch": "12:30 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "26 April Saturday 2025",
+      "time": "12:44 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:44 PM",
+      "last_punch": "04:06 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "26 April Saturday 2025",
+      "time": "03:36 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:44 PM",
+      "last_punch": "04:06 PM"
+    },
+    {
+      "uid": "25",
+      "name": "Muhammad Talha",
+      "date": "26 April Saturday 2025",
+      "time": "04:06 PM",
+      "is_late_arrival": true,
+      "is_early_departure": true,
+      "first_punch": "12:44 PM",
+      "last_punch": "04:06 PM"
+    }
+  ],
+  "metadata": {
+    "total_records": 376,
+    "total_employees": 20,
+    "date_range": {
+      "start": "08 April Tuesday 2025",
+      "end": "26 April Saturday 2025"
+    },
+    "generated_at": "2025-04-26T20:05:25.879120"
+  }
+}

@@ -1,6 +1,20 @@
-# ZKTeco Web Manager
+# ZKTeco Web Manager (WIP)
 
 A full-stack web application for managing ZKTeco devices with a FastAPI backend and React frontend.
+
+## Working on Next
+
+- Users
+- Better frontend user experience
+- More fine grained controlled
+
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+![Device Management Screen](screen-1.png)
+![User Interface Screen](screen-2.png)
+![Data Synchronization Screen](screen-3.png)
 
 ## Features
 
@@ -14,7 +28,7 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
 ## Prerequisites
 
 - Python 3.7+
-- Node.js and npm/yarn
+- Node.js (Typescript) and npm/bun
 - ZKTeco device(s) on the network
 
 ## Installation
@@ -38,15 +52,36 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
 1. Navigate to the frontend directory:
 
    ```bash
-   cd app
+   cd frontend
    ```
 
 2. Install Node.js dependencies:
    ```bash
    npm install
    # or
-   yarn install
+   bun install
    ```
+
+### Frontend Structure
+
+The frontend directory is organized as follows:
+
+```
+frontend/
+├── src/                    # Source code directory
+│   ├── components/         # Reusable React components
+│   ├── types/             # TypeScript type definitions
+│   ├── apiHandler/        # API integration and services
+│   ├── assets/            # Static assets (images, fonts, etc.)
+│   ├── App.tsx            # Main application component
+│   └── main.tsx          # Application entry point
+├── public/                # Public static files
+├── index.html            # HTML entry point
+├── vite.config.ts        # Vite configuration
+├── tsconfig.json         # TypeScript configuration
+├── tailwind.config.js    # Tailwind CSS configuration
+└── package.json          # Project dependencies and scripts
+```
 
 ## Configuration
 
@@ -74,7 +109,7 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
    ```bash
    npm run dev
    # or
-   yarn dev
+   bun run dev
    ```
    The frontend will be available at `http://localhost:3000`
 
