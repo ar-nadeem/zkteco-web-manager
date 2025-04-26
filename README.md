@@ -1,2 +1,101 @@
-# zkteco-web-manager
-Full webapp with FastAPI backend and react frontend to handle zkteco devices
+# ZKTeco Web Manager
+
+A full-stack web application for managing ZKTeco devices with a FastAPI backend and React frontend.
+
+## Features
+
+- Web-based management interface for ZKTeco devices
+- FastAPI backend for efficient API handling
+- React frontend for modern and responsive UI
+- Device management capabilities
+- Data synchronization with ZKTeco devices
+
+## Prerequisites
+
+- Python 3.7+
+- Node.js and npm/yarn
+- ZKTeco device(s) on the network
+
+## Installation
+
+### Backend Setup
+
+1. Create a virtual environment:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+2. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Frontend Setup
+
+1. Navigate to the frontend directory:
+
+   ```bash
+   cd app
+   ```
+
+2. Install Node.js dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+## Configuration
+
+1. Create a `.env` file in the root directory with your configuration:
+   ```
+   DEVICE_IP=your_device_ip
+   DEVICE_PORT=your_device_port
+   ```
+
+## Running the Application
+
+### Backend
+
+1. Activate the virtual environment if not already activated
+2. Run the FastAPI server:
+   ```bash
+   uvicorn main:app --reload
+   ```
+   The API will be available at `http://localhost:8000`
+
+### Frontend
+
+1. In a separate terminal, navigate to the frontend directory
+2. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+   The frontend will be available at `http://localhost:3000`
+
+## API Documentation
+
+Once the backend is running, you can access:
+
+- Interactive API documentation at `http://localhost:8000/docs`
+- Alternative API documentation at `http://localhost:8000/redoc`
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch for your feature
+3. Commit your changes
+4. Push to your branch
+5. Create a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Support
+
+For support, please open an issue in the GitHub repository.
