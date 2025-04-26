@@ -44,7 +44,7 @@ Here are some screenshots of the application in action:
 
 2. Install Python dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r backend/requirements.txt
    ```
 
 ### Frontend Setup
