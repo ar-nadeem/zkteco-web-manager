@@ -84,19 +84,15 @@ frontend/
 ```
 
 ## Configuration
-
-1. Create a `.env` file in the root directory with your configuration:
-   ```
-   DEVICE_IP=your_device_ip
-   DEVICE_PORT=your_device_port
-   ```
+None needed. Just make sure .env exists in frontend folder.
 
 ## Running the Application
 
 ### Backend
 
 1. Activate the virtual environment if not already activated
-2. Run the FastAPI server:
+2. cd into backend folder.
+3. Run the FastAPI server:
    ```bash
    fastapi run
    ```
@@ -104,7 +100,7 @@ frontend/
 
 ### Frontend
 
-1. In a separate terminal, navigate to the frontend directory
+1. In a separate terminal, cd to the frontend directory
 2. Start the development server:
    ```bash
    npm run dev
