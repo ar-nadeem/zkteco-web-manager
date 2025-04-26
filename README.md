@@ -4,11 +4,12 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
 
 ## Features
 
-- Web-based management interface for ZKTeco devices
-- FastAPI backend for efficient API handling
-- React frontend for modern and responsive UI
-- Device management capabilities
-- Data synchronization with ZKTeco devices
+- Web-based management interface for ZKTeco devices :white_check_mark:
+- FastAPI backend for efficient API handling :white_check_mark:
+- React frontend for modern and responsive UI :white_check_mark:
+- Device management capabilities :white_check_mark:
+- Data synchronization with ZKTeco devices :white_check_mark:
+- More coming soon
 
 ## Prerequisites
 
@@ -62,7 +63,7 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
 1. Activate the virtual environment if not already activated
 2. Run the FastAPI server:
    ```bash
-   uvicorn main:app --reload
+   fastapi run
    ```
    The API will be available at `http://localhost:8000`
 
@@ -91,10 +92,6 @@ Once the backend is running, you can access:
 3. Commit your changes
 4. Push to your branch
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
