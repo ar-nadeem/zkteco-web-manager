@@ -6,9 +6,9 @@ A full-stack web application for managing ZKTeco devices with a FastAPI backend 
 
 - Web-based management interface for ZKTeco devices :white_check_mark:
 - FastAPI backend for efficient API handling :white_check_mark:
-- React frontend for modern and responsive UI :white_check_mark:
-- Device management capabilities :white_check_mark:
-- Data synchronization with ZKTeco devices :white_check_mark:
+- React frontend for modern and responsive UI
+- Device management capabilities
+- Data synchronization with ZKTeco devices
 - More coming soon
 
 ## Prerequisites
