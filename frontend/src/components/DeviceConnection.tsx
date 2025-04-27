@@ -54,7 +54,7 @@ const DeviceConnection = ({
         password: settings.password,
         force_udp: false,
         ommit_ping: false,
-        timeout: 5000,
+        timeout: 2,
       };
 
       await deviceAPI.testConnection(deviceSettings);

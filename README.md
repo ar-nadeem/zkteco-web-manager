@@ -10,6 +10,9 @@ This project heavily relies on the amazing [pyzk](https://github.com/fananimi/py
 - Contributing to pyzk if you can
 - Supporting the maintainer's work
 
+## Docker release
+Pull the container and map 8000:8000. Webapp will be available at localhost:8000
+
 ## Working on Next
 
 - Users
