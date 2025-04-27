@@ -1,0 +1,20 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: ['staging', 'main']
+  pull_request:
+    branches: ['staging', 'main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Create ENV
+      - name: Create .env File
+        run: echo "${{ secrets.DOTENV_FILE }}" > .env
+
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
