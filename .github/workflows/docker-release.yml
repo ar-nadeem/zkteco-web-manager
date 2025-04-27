@@ -57,9 +57,9 @@ jobs:
       - name: Create .env File
         run: |
           if [[ "${{ env.branch_name }}" == "main" ]]; then
-            echo "${{ secrets.DOTENV_FILE_PROD }}" >> .env
+            echo "${{ secrets.DOTENV_FILE_PROD }}" >> ./frontend/.env
           else
-            echo "${{ secrets.DOTENV_FILE }}" >> .env
+            echo "${{ secrets.DOTENV_FILE }}" >> ./frontend/.env
           fi
 
       # Step 5: Define Tags Based on Stage
