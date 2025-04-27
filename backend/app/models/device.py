@@ -9,6 +9,6 @@ class DeviceSettings(BaseModel):
     force_udp: bool = Field(
         default=False, description="Whether to force UDP connection")
     ommit_ping: bool = Field(
-        default=False, description="Whether to omit ping check")
+        default=True, description="Whether to omit ping check")
     timeout: int = Field(
         default=5, description="Connection timeout in seconds")

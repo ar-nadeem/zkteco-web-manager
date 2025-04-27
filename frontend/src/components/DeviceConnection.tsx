@@ -53,7 +53,7 @@ const DeviceConnection = ({
         port: parseInt(settings.port),
         password: settings.password,
         force_udp: false,
-        ommit_ping: false,
+        ommit_ping: true,
         timeout: 2,
       };
 
