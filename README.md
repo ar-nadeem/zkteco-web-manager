@@ -2,6 +2,14 @@
 
 A full-stack web application for managing ZKTeco devices with a FastAPI backend and React frontend.
 
+## Special Thanks
+
+This project heavily relies on the amazing [pyzk](https://github.com/fananimi/pyzk) library by [@fananimi](https://github.com/fananimi). Without this library, this project wouldn't be possible. Please consider:
+
+- ⭐ Starring the [pyzk repository](https://github.com/fananimi/pyzk)
+- Contributing to pyzk if you can
+- Supporting the maintainer's work
+
 ## Working on Next
 
 - Users
