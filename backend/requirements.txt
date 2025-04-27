@@ -1,4 +1,3 @@
 pyzk
-zk
 pandas
 fastapi[all]
