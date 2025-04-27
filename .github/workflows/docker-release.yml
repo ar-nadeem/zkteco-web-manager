@@ -1,0 +1,136 @@
+name: Build and Publish Docker Image for Release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository with all branches
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch all branches and history
+
+      # Step 2: Convert Owner and Repo Name to Lowercase
+      - name: Convert Owner and Repo Name to Lowercase
+        id: lowercase
+        run: |
+          echo "owner=$(echo '${{ github.repository_owner }}' | tr '[:upper:]' '[:lower:]')" >> $GITHUB_ENV
+          echo "repo=$(basename '${{ github.repository }}' | tr '[:upper:]' '[:lower:]')" >> $GITHUB_ENV
+      - name: Debug Owner and Repo
+        run: |
+          echo "Owner: ${{ env.owner }}"
+          echo "Repo: ${{ env.repo }}"
+
+      # Step 3: Get Branch Name
+      - name: Get Branch Name
+        id: branch_name
+        run: |
+          # Set branch_name using target_commitish or fallback
+          branch_name="${{ github.event.release.target_commitish }}"
+          if [[ -z "$branch_name" ]]; then
+              branch_name=$(echo "${{ github.ref }}" | sed -E 's|^refs/(heads|tags)/||' || echo "")
+          fi
+          if [[ -z "$branch_name" ]]; then
+              branch_name="main"
+          fi
+
+          # Sanitize branch_name to remove unsafe characters
+          branch_name=$(echo "$branch_name" | sed 's/[^a-zA-Z0-9._-]//g')
+
+          # Save branch_name to environment
+          echo "branch_name=${branch_name}" >> $GITHUB_ENV
+
+      - name: Debug Branch Name
+        run: |
+          echo "Branch Name: ${{ env.branch_name }}"
+
+      # Step 4: Create .env file based on branch
+      - name: Create .env File
+        run: |
+          if [[ "${{ env.branch_name }}" == "main" ]]; then
+            echo "${{ secrets.DOTENV_FILE_PROD }}" >> ./frontend/.env
+          else
+            echo "${{ secrets.DOTENV_FILE }}" >> ./frontend/.env
+          fi
+
+      # Step 5: Define Tags Based on Stage
+      - name: Define Image Tags
+        id: image_tags
+        run: |
+          if [[ "${{ env.branch_name }}" == "main" ]]; then
+            echo "env_tag=prod" >> $GITHUB_ENV
+          elif [[ "${{ env.branch_name }}" == "staging" ]]; then
+            echo "env_tag=stage" >> $GITHUB_ENV
+          else
+            echo "env_tag=dev" >> $GITHUB_ENV
+          fi
+      - name: Set Tag Names
+        run: |
+          # Sanitize release tag
+          sanitized_tag=$(echo "${{ github.event.release.tag_name }}" | sed 's/[^a-zA-Z0-9._-]//g' | sed 's/^-*//')
+          echo "version_tag=${{ env.env_tag }}-${sanitized_tag}" >> $GITHUB_ENV
+          echo "latest_tag=${{ env.env_tag }}-latest" >> $GITHUB_ENV
+      - name: Debug Image Tags
+        run: |
+          echo "Environment Tag: ${{ env.env_tag }}"
+          echo "Version Tag: ${{ env.version_tag }}"
+          echo "Latest Tag: ${{ env.latest_tag }}"
+
+      # Step 6: Log in to GitHub Container Registry
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 7: Build and Tag Docker Image
+      - name: Build Docker Image
+        run: |
+          docker build \
+            --build-arg ENV_FILE=.env \
+            --build-arg BRANCH_NAME=${{ env.branch_name }} \
+            -t ghcr.io/${{ env.owner }}/${{ env.repo }}:${{ env.version_tag }} .
+          docker tag ghcr.io/${{ env.owner }}/${{ env.repo }}:${{ env.version_tag }} \
+            ghcr.io/${{ env.owner }}/${{ env.repo }}:${{ env.latest_tag }}
+
+      # Step 8: Push Docker Image with Multiple Tags
+      - name: Push Docker Image
+        run: |
+          docker push ghcr.io/${{ env.owner }}/${{ env.repo }}:${{ env.version_tag }}
+          docker push ghcr.io/${{ env.owner }}/${{ env.repo }}:${{ env.latest_tag }}
+
+      # Step 9: Update Release with Docker Image Info
+      - name: Update Release with Docker Image Info
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const versionTag = process.env.VERSION_TAG;
+            const latestTag = process.env.LATEST_TAG;
+            const owner = process.env.OWNER;
+            const repo = process.env.REPO;
+            const versionImageName = `ghcr.io/${owner}/${repo}:${versionTag}`;
+            const latestImageName = `ghcr.io/${owner}/${repo}:${latestTag}`;
+            const releaseId = context.payload.release.id;
+            const existingBody = context.payload.release.body || '';
+            const newBody = `${existingBody}\n\nDocker Images:\n- \`${versionImageName}\`\n- \`${latestImageName}\``;
+            await github.rest.repos.updateRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              release_id: releaseId,
+              body: newBody
+            });
+        env:
+          VERSION_TAG: ${{ env.version_tag }}
+          LATEST_TAG: ${{ env.latest_tag }}
+          OWNER: ${{ env.owner }}
+          REPO: ${{ env.repo }}

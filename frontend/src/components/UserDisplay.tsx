@@ -1,8 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { User, UsersDisplayProps } from "../types/user";
-import { format, parse, startOfMonth, endOfMonth } from "date-fns";
-import DatePicker from "react-datepicker";
-import "react-datepicker/dist/react-datepicker.css";
+import {UsersDisplayProps } from "../types/user";
 
 const UserDisplay: React.FC<UsersDisplayProps> = ({
   data,

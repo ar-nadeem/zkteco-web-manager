@@ -4,7 +4,7 @@ from app.models.message import Message
 router = APIRouter()
 
 
-@router.get("/")
+@router.get("/welcome")
 def welcome() -> Message:
     """
     Welcome message for the API
