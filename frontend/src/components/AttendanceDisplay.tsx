@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from "react";
-import { AttendanceDisplayProps, AttendanceSummary } from "../types/attendance";
-import { format, parse } from "date-fns";
+import { AttendanceDisplayProps} from "../types/attendance";
+import { format, parse, startOfMonth, endOfMonth } from "date-fns";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
@@ -9,7 +9,11 @@ const AttendanceDisplay: React.FC<AttendanceDisplayProps> = ({
   isLoading,
   error,
 }) => {
-  const [dateRange, setDateRange] = useState<[Date | null, Date | null]>([null, null]);
+  const currentDate = new Date();
+  const [dateRange, setDateRange] = useState<[Date | null, Date | null]>([
+    startOfMonth(currentDate),
+    endOfMonth(currentDate)
+  ]);
   const [startDate, endDate] = dateRange;
   const [selectedStatuses, setSelectedStatuses] = useState<string[]>(["all"]);
   const [nameFilter, setNameFilter] = useState<string>("");

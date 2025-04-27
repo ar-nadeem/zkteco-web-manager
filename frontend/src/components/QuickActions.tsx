@@ -1,10 +1,11 @@
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo,useEffect } from "react";
 import AttendanceDisplay from "./AttendanceDisplay";
-import { attendanceAPI } from "../apiHandler/calls";
+import UserDisplay from "./UserDisplay";
+import { attendanceAPI, userAPI } from "../apiHandler/calls";
 import { DeviceSettings } from "../apiHandler/types";
 import { QuickActionsProps, AttendanceData } from "../types/attendance";
 import { ViewIcon, UsersIcon } from "./icons";
-
+import { User } from "../types/user";
 const QuickActions: React.FC<QuickActionsProps> = ({
   isDisabled,
   zkSettings,
@@ -13,9 +14,23 @@ const QuickActions: React.FC<QuickActionsProps> = ({
   const [attendanceData, setAttendanceData] = useState<AttendanceData | null>(
     null
   );
+  const [usersData, setUsersData] = useState<User[] | null>(null);
+  const [showUsers, setShowUsers] = useState(false);
   const [isAttendanceLoading, setIsAttendanceLoading] = useState(false);
   const [isUsersLoading, setIsUsersLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+
+ useEffect(() => {
+  if (showUsers) {
+    setShowAttendance(false);
+  }
+ }, [showUsers]);
+
+ useEffect(() => {
+  if (showAttendance) {
+    setShowUsers(false);
+  }
+ }, [showAttendance]);
 
   // Convert ZKTecoSettings to DeviceSettings with proper type conversion
   const deviceSettings = useMemo<Partial<DeviceSettings>>(
@@ -48,6 +63,21 @@ const QuickActions: React.FC<QuickActionsProps> = ({
     }
   };
 
+  const fetchUsersData = async () => {
+    setIsUsersLoading(true);
+    setError(null);
+    try {
+      const data = await userAPI.getUsers(deviceSettings as DeviceSettings);
+      console.log(data);
+      setUsersData(data as User[]);
+      setShowUsers(true);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "An error occurred while fetching users data");
+    } finally {
+      setIsUsersLoading(false);
+    }
+  };
+
   const handleViewAttendance = () => {
     if (!showAttendance) {
       fetchAttendanceData();
@@ -57,12 +87,13 @@ const QuickActions: React.FC<QuickActionsProps> = ({
   };
 
   const handleManageUsers = () => {
-    setIsUsersLoading(true);
-    // TODO: Implement manage users functionality
-    setTimeout(() => {
-      setIsUsersLoading(false);
-    }, 1000);
+    if (!showUsers) {
+      fetchUsersData();
+    } else {
+      setShowUsers(false);
+    }
   };
+  
 
   return (
     <div className="bg-white rounded-lg shadow-lg p-6">
@@ -105,6 +136,13 @@ const QuickActions: React.FC<QuickActionsProps> = ({
         <AttendanceDisplay
           data={attendanceData}
           isLoading={isAttendanceLoading}
+          error={error}
+        />
+      )}
+      {showUsers && (
+        <UserDisplay
+          data={usersData}
+          isLoading={isUsersLoading}
           error={error}
         />
       )}
