@@ -101,7 +101,13 @@ None needed. Just make sure .env exists in frontend folder.
 ### Frontend
 
 1. In a separate terminal, cd to the frontend directory
-2. Start the development server:
+2. Create a .env file in frontend folder with the following content:
+```bash
+VITE_API_BASE_URL=http://localhost:8000
+```
+Replace URL with your backend url
+
+3. Start the development server:
    ```bash
    npm run dev
    # or
