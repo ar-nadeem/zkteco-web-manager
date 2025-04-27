@@ -11,7 +11,7 @@ This project heavily relies on the amazing [pyzk](https://github.com/fananimi/py
 - Supporting the maintainer's work
 
 ## Docker release
-Pull the container and map 8000:8000. Webapp will be available at localhost:8000
+Build your own, make sure frontend .env points to public server.
 
 ## Working on Next
 
