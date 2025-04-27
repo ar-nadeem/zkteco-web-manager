@@ -13,7 +13,8 @@ const QuickActions: React.FC<QuickActionsProps> = ({
   const [attendanceData, setAttendanceData] = useState<AttendanceData | null>(
     null
   );
-  const [isLoading, setIsLoading] = useState(false);
+  const [isAttendanceLoading, setIsAttendanceLoading] = useState(false);
+  const [isUsersLoading, setIsUsersLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   // Convert ZKTecoSettings to DeviceSettings with proper type conversion
@@ -28,7 +29,7 @@ const QuickActions: React.FC<QuickActionsProps> = ({
   );
 
   const fetchAttendanceData = async () => {
-    setIsLoading(true);
+    setIsAttendanceLoading(true);
     setError(null);
     try {
       const data = await attendanceAPI.getAttendance(
@@ -43,7 +44,7 @@ const QuickActions: React.FC<QuickActionsProps> = ({
           : "An error occurred while fetching attendance data"
       );
     } finally {
-      setIsLoading(false);
+      setIsAttendanceLoading(false);
     }
   };
 
@@ -53,6 +54,14 @@ const QuickActions: React.FC<QuickActionsProps> = ({
     } else {
       setShowAttendance(false);
     }
+  };
+
+  const handleManageUsers = () => {
+    setIsUsersLoading(true);
+    // TODO: Implement manage users functionality
+    setTimeout(() => {
+      setIsUsersLoading(false);
+    }, 1000);
   };
 
   return (
@@ -70,11 +79,11 @@ const QuickActions: React.FC<QuickActionsProps> = ({
             }
             transition-colors duration-200
             flex items-center justify-center gap-2`}
-          disabled={isDisabled}
+          disabled={isDisabled || isAttendanceLoading}
           onClick={handleViewAttendance}
         >
           <ViewIcon />
-          {showAttendance ? "Hide Attendance" : "View Attendance Records"}
+          {isAttendanceLoading ? "Loading..." : showAttendance ? "Hide Attendance" : "View Attendance Records"}
         </button>
         <button
           className={`p-4 border rounded-lg
@@ -85,16 +94,17 @@ const QuickActions: React.FC<QuickActionsProps> = ({
             }
             transition-colors duration-200
             flex items-center justify-center gap-2`}
-          disabled={isDisabled}
+          disabled={isDisabled || isUsersLoading}
+          onClick={handleManageUsers}
         >
           <UsersIcon />
-          Manage Users
+          {isUsersLoading ? "Loading..." : "Manage Users"}
         </button>
       </div>
       {showAttendance && (
         <AttendanceDisplay
           data={attendanceData}
-          isLoading={isLoading}
+          isLoading={isAttendanceLoading}
           error={error}
         />
       )}
