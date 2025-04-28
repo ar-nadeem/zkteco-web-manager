@@ -1,3 +1,5 @@
+import { DeviceSettings } from "../apiHandler/types";
+
 export interface User {
     uid: number;
     name: string;
@@ -12,6 +14,8 @@ export interface UsersDisplayProps {
     data: User[] | null;
     isLoading: boolean;
     error: string | null;
+    deviceSettings: DeviceSettings;
+    onRefresh?: () => void;
 }
 
 export type Users = User[];

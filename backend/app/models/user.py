@@ -3,12 +3,10 @@ from pydantic import BaseModel, Field
 
 class UserSettings(BaseModel):
     """User settings for the ZKTeco device."""
-    ip: str = Field(..., description="Device IP address")
-    port: int = Field(default=4370, description="Device port")
-    password: int = Field(default=0, description="Device password")
-    force_udp: bool = Field(
-        default=False, description="Whether to force UDP connection")
-    ommit_ping: bool = Field(
-        default=False, description="Whether to omit ping check")
-    timeout: int = Field(
-        default=5, description="Connection timeout in seconds")
+    uid: int = Field(..., description="User ID")
+    name: str = Field(..., description="User name")
+    privilege: int = Field(..., description="User privilege")
+    password: str = Field(..., description="User password")
+    group_id: str = Field(..., description="Group ID")
+    user_id: str = Field(..., description="User ID in string")
+    card: int = Field(..., description="Card Number")

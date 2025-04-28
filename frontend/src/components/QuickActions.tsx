@@ -1,4 +1,4 @@
-import React, { useState, useMemo,useEffect } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import AttendanceDisplay from "./AttendanceDisplay";
 import UserDisplay from "./UserDisplay";
 import { attendanceAPI, userAPI } from "../apiHandler/calls";
@@ -20,17 +20,17 @@ const QuickActions: React.FC<QuickActionsProps> = ({
   const [isUsersLoading, setIsUsersLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
- useEffect(() => {
-  if (showUsers) {
-    setShowAttendance(false);
-  }
- }, [showUsers]);
+  useEffect(() => {
+    if (showUsers) {
+      setShowAttendance(false);
+    }
+  }, [showUsers]);
 
- useEffect(() => {
-  if (showAttendance) {
-    setShowUsers(false);
-  }
- }, [showAttendance]);
+  useEffect(() => {
+    if (showAttendance) {
+      setShowUsers(false);
+    }
+  }, [showAttendance]);
 
   // Convert ZKTecoSettings to DeviceSettings with proper type conversion
   const deviceSettings = useMemo<Partial<DeviceSettings>>(
@@ -72,7 +72,11 @@ const QuickActions: React.FC<QuickActionsProps> = ({
       setUsersData(data as User[]);
       setShowUsers(true);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "An error occurred while fetching users data");
+      setError(
+        err instanceof Error
+          ? err.message
+          : "An error occurred while fetching users data"
+      );
     } finally {
       setIsUsersLoading(false);
     }
@@ -93,7 +97,6 @@ const QuickActions: React.FC<QuickActionsProps> = ({
       setShowUsers(false);
     }
   };
-  
 
   return (
     <div className="bg-white rounded-lg shadow-lg p-6">
@@ -114,7 +117,11 @@ const QuickActions: React.FC<QuickActionsProps> = ({
           onClick={handleViewAttendance}
         >
           <ViewIcon />
-          {isAttendanceLoading ? "Loading..." : showAttendance ? "Hide Attendance" : "View Attendance Records"}
+          {isAttendanceLoading
+            ? "Loading..."
+            : showAttendance
+            ? "Hide Attendance"
+            : "View Attendance Records"}
         </button>
         <button
           className={`p-4 border rounded-lg
@@ -132,6 +139,7 @@ const QuickActions: React.FC<QuickActionsProps> = ({
           {isUsersLoading ? "Loading..." : "Manage Users"}
         </button>
       </div>
+
       {showAttendance && (
         <AttendanceDisplay
           data={attendanceData}
@@ -139,11 +147,14 @@ const QuickActions: React.FC<QuickActionsProps> = ({
           error={error}
         />
       )}
+
       {showUsers && (
         <UserDisplay
           data={usersData}
           isLoading={isUsersLoading}
           error={error}
+          deviceSettings={deviceSettings as DeviceSettings}
+          onRefresh={fetchUsersData}
         />
       )}
     </div>

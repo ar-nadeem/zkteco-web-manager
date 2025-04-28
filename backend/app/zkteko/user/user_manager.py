@@ -17,8 +17,6 @@ class UserManager(ZktekoBase):
             self.connect()
             users = self.conn.get_users()
             self.user_dict = {int(user.uid): user.name for user in users}
-            # Add any manual overrides
-            self.user_dict[26] = 'Ali Shehzad'
             return self.user_dict
         finally:
             self.disconnect()
@@ -67,8 +65,8 @@ class UserManager(ZktekoBase):
         finally:
             self.disconnect()
 
-    def update_user(self, uid: int, name: str = None, privilege: int = None,
-                    password: str = None):
+    def update_user(self, uid: int, name: str = "", privilege: int = 0,
+                    password: str = "", group_id: str = "", user_id: str = "", card: int = 0):
         """Update user information."""
         try:
             self.connect()
@@ -77,6 +75,7 @@ class UserManager(ZktekoBase):
             user = next((u for u in users if int(u.uid) == uid), None)
 
             if user:
+
                 # Update only provided fields
                 new_name = name if name is not None else user.name
                 new_privilege = privilege if privilege is not None else user.privilege
@@ -85,7 +84,10 @@ class UserManager(ZktekoBase):
                 # Apply updates
                 self.conn.set_user(uid=uid, name=new_name,
                                    privilege=new_privilege,
-                                   password=new_password)
+                                   password=new_password,
+                                   group_id=group_id,
+                                   user_id=user_id,
+                                   card=card)
 
                 # Update local dictionary
                 self.user_dict[uid] = new_name

@@ -4,6 +4,7 @@ import {
   AttendanceSettings,
   // UserSettings,
   Message,
+  UserSettings,
 } from "./types";
 
 // API Base URL from environment variables
@@ -32,8 +33,52 @@ export const userAPI = {
       throw error;
     }
   },
+  updateUser: async (
+    deviceSettings: DeviceSettings,
+    userSettings: UserSettings
+  ) => {
+    try {
+      const response = await api.post("/update_user", {
+        device_settings: deviceSettings,
+        user_settings: userSettings,
+      });
+      return response.data;
+    } catch (error) {
+      console.error("Error updating user:", error);
+      throw error;
+    }
+  },
+  deleteUser: async (
+    deviceSettings: DeviceSettings,
+    userSettings: UserSettings
+  ) => {
+    try {
+      const response = await api.post("/delete_user", {
+        device_settings: deviceSettings,
+        user_settings: userSettings,
+      });
+      return response.data;
+    } catch (error) {
+      console.error("Error deleting user:", error);
+      throw error;
+    }
+  },
+  addUser: async (
+    deviceSettings: DeviceSettings,
+    userSettings: UserSettings
+  ) => {
+    try {
+      const response = await api.post("/add_user", {
+        device_settings: deviceSettings,
+        user_settings: userSettings,
+      });
+      return response.data;
+    } catch (error) {
+      console.error("Error adding user:", error);
+      throw error;
+    }
+  },
 };
-
 export const attendanceAPI = {
   getAttendance: async (
     deviceSettings: DeviceSettings,
