@@ -21,7 +21,7 @@ function App() {
   const [isConnected, setIsConnected] = useState(false);
 
   useEffect(() => {
-    const storedSettings = sessionStorage.getItem("zktecoSettings");
+    const storedSettings = localStorage.getItem("zktecoSettings");
     if (storedSettings) {
       setZkSettings(JSON.parse(storedSettings));
     }
@@ -29,7 +29,7 @@ function App() {
 
   const handleSettingsChange = (newSettings: ZKTecoSettings) => {
     setZkSettings(newSettings);
-    sessionStorage.setItem("zktecoSettings", JSON.stringify(newSettings));
+    localStorage.setItem("zktecoSettings", JSON.stringify(newSettings));
   };
 
   return (
