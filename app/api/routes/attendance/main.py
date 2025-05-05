@@ -22,4 +22,4 @@ async def get_attendance(
         office_end=attendance_settings.office_end,
         grace_period=attendance_settings.grace_period
     )
-    return attendance_manager.get_attendance_as_json()
+    return await attendance_manager.get_attendance_as_json()

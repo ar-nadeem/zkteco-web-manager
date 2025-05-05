@@ -2,6 +2,7 @@ from datetime import datetime, time
 import pandas as pd
 from app.zkteko.base import ZktekoBase
 from app.zkteko.user.user_manager import UserManager
+import asyncio
 
 
 class AttendanceProcessor(ZktekoBase):
@@ -149,7 +150,7 @@ class AttendanceProcessor(ZktekoBase):
 
         return daily_summary
 
-    def get_attendance_data(self):
+    async def get_attendance_data(self):
         """Get complete attendance data in structured format."""
         try:
             # Process attendance records
