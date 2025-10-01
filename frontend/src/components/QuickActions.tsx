@@ -2,7 +2,7 @@ import React, { useState, useMemo, useEffect } from "react";
 import AttendanceDisplay from "./AttendanceDisplay";
 import UserDisplay from "./UserDisplay";
 import { attendanceAPI, userAPI } from "../apiHandler/calls";
-import { DeviceSettings } from "../apiHandler/types";
+import { DeviceSettings, AttendanceSettings } from "../apiHandler/types";
 import { QuickActionsProps, AttendanceData } from "../types/attendance";
 import { ViewIcon, UsersIcon } from "./icons";
 import { User } from "../types/user";
@@ -48,7 +48,10 @@ const QuickActions: React.FC<QuickActionsProps> = ({
     setError(null);
     try {
       const data = await attendanceAPI.getAttendance(
-        deviceSettings as DeviceSettings
+        deviceSettings as DeviceSettings,
+        {
+          grace_period: 30,
+        } as AttendanceSettings
       );
       setAttendanceData(data);
       setShowAttendance(true);

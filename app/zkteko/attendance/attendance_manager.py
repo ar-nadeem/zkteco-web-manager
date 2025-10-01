@@ -11,7 +11,7 @@ class AttendanceManager:
                  force_udp: bool = False, ommit_ping: bool = False, timeout: int = 5,
                  office_start: time = time(9, 0),
                  office_end: time = time(17, 0),
-                 grace_period: int = 15):
+                 grace_period: int = 30):
         """Initialize AttendanceManager with all necessary components."""
         self.processor = AttendanceProcessor(
             ip=ip, port=port, password=password,
