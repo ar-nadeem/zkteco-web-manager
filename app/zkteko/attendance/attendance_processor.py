@@ -12,7 +12,7 @@ class AttendanceProcessor(ZktekoBase):
                  force_udp: bool = False, ommit_ping: bool = False, timeout: int = 5,
                  office_start: time = time(9, 0),    # 9:00 AM
                  office_end: time = time(17, 0),     # 5:00 PM
-                 grace_period: int = 15):            # 15 minutes grace period
+                 grace_period: int = 30):            # 15 minutes grace period
         """Initialize AttendanceProcessor with device connection and timing parameters."""
         super().__init__(ip=ip, port=port, password=password,
                          force_udp=force_udp, ommit_ping=ommit_ping, timeout=timeout)
