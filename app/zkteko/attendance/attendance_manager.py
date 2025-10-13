@@ -9,8 +9,8 @@ class AttendanceManager:
 
     def __init__(self, ip: str, port: int = 4370, password: int = 0,
                  force_udp: bool = False, ommit_ping: bool = False, timeout: int = 5,
-                 office_start: time = time(9, 0),
-                 office_end: time = time(17, 0),
+                 office_start: time = time(10, 0),
+                 office_end: time = time(18, 0),
                  grace_period: int = 30):
         """Initialize AttendanceManager with all necessary components."""
         self.processor = AttendanceProcessor(

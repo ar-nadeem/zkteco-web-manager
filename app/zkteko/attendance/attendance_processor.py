@@ -10,8 +10,8 @@ class AttendanceProcessor(ZktekoBase):
 
     def __init__(self, ip: str, port: int = 4370, password: int = 0,
                  force_udp: bool = False, ommit_ping: bool = False, timeout: int = 5,
-                 office_start: time = time(9, 0),    # 9:00 AM
-                 office_end: time = time(17, 0),     # 5:00 PM
+                 office_start: time = time(10, 0),    # 9:00 AM
+                 office_end: time = time(18, 0),     # 5:00 PM
                  grace_period: int = 30):            # 30 minutes grace period
         """Initialize AttendanceProcessor with device connection and timing parameters."""
         super().__init__(ip=ip, port=port, password=password,
